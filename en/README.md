@@ -1,4 +1,6 @@
-1. In this project you're going to make a zoo website! Go to the starter trinket: http://dojo.soy/minis-trinket. On the right you will see a website and on the left is the code that makes the website.
+# Make a zoo website! 
+
+1. Go to the starter trinket: http://dojo.soy/minis-trinket. On the right you will see a website and on the left is the code that makes the website.
 
 2. In the **code pane** go to the tab `styles.css`. Look for the properties `color` and `background-color`. Change the values to colours that you like and see what happens. For a list of colour names you can use, see http://dojo.soy/minis-web-colours.
 
