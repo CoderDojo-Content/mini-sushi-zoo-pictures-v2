@@ -43,8 +43,7 @@
 
 * Repeat these steps as many times as you like to fill your zoo with animals!
  
-{% callout %}To learn how to do more with your website and earn yourself a digital badge, visit <b>http://dojo.soy/sp-html-begin</b> and try the Beginner HTML CSS <br />Sushi Cards! To see this card online or print out more, go to <b>http://dojo.soy/sp-sushi-html</b> 
-{% endcallout %}
+To learn how to do more with your website and earn yourself a digital badge, visit http://dojo.soy/sp-html-begin and try the Beginner HTML CSS Sushi Cards! To see this card online or print out more, go to http://dojo.soy/sp-sushi-html
 
 
 
