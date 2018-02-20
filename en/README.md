@@ -33,7 +33,7 @@
    * Try adding some pictures on this page too!
 
 ### Make a link
-* Go back to the `index.html` tab. Find your image code and put it in between a pair of `<a></a>` tags like this:
+* **Go back to the `index.html` tab.** Find your image code and put it in between a pair of `<a></a>` tags like this:
 
   ```html
     <a href="lion.html"><img src="lions.jpg" /></a>
