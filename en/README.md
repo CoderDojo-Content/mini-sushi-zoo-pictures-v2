@@ -1,9 +1,9 @@
 # Make a zoo website! 
 
 ### Get started
-* Go to the starter trinket here: dojo.soy/mini-trinket. On the right you will see a website, and on the left is the code that makes the website.
+* Go to the starter trinket here: dojo.soy/sp-trinket. On the right you will see a website, and on the left is the code that makes the website.
 
-* In the **code pane**, go to the tab `styles.css`. Look for the properties `color` and `background-color`. Change the values to colours that you like and see what happens. Find a list of colour names you can use here: dojo.soy/mini-web-colours.
+* In the **code pane**, go to the tab `styles.css`. Look for the properties `color` and `background-color`. Change the values to colours that you like and see what happens. Find a list of colour names you can use here: dojo.soy/sp-web-colours.
 
 ### Add a picture
 * For this step you’ll need a picture of a zoo animal that you like. It needs to be saved on your computer. If you don’t have one handy, you can search the internet and download a picture, or even draw one if you prefer.
@@ -47,7 +47,7 @@ Repeat these steps as many times as you like to fill your zoo with animals!
 
 ![](TktZooExample.png)
  
-To learn how to do more with your website and earn yourself a digital badge, visit dojo.soy/mini-html-begin and try the Beginner HTML/CSS Sushi Cards! To see this card online or print out more, go to dojo.soy/mini-sushi-html.
+To learn how to do more with your website and earn yourself a digital badge, visit dojo.soy/sp-html-begin and try the Beginner HTML/CSS Sushi Cards! To see this card online or print out more, go to dojo.soy/sp-sushi-html.
 
 
 
